@@ -1,5 +1,5 @@
-#include "Physics/Particles.hpp"
-#include "Physics/Functions.hpp"
+#include "Particles.hpp"
+#include "Functions.hpp"
 
 #include <vector>
 #include <iostream>
